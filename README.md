@@ -27,6 +27,12 @@ $ pip install pika
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
+![Homework](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/%20RabbitMQ%20-%20Задание%20№2%3A1.png)
+
+![Homework](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/%20RabbitMQ%20-%20Задание%20№2%3A2.png)
+
+![Homework](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/%20RabbitMQ%20-%20Задание%20№2%3A3.png)
+
 ---
 
 ### Задание 3. Подготовка HA кластера
