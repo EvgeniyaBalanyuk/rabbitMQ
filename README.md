@@ -68,6 +68,11 @@ $ rabbitmqadmin get queue='hello'
 
 *Приложите скриншот результата работы второго скрипта.*
 
+![](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/RabbirMQ%20-%20Задание%20№3.1.png)
+
+![](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/RabbirMQ%20-%20Задание%20№3.2.png)
+
+![](https://github.com/EvgeniyaBalanyuk/screenshots/blob/main/RabbirMQ%20-%20Задание%20№3.3.png)
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
